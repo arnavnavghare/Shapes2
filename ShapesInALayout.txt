@@ -1,0 +1,7 @@
+R,4,3,0,Hall,Construction,21500,Rs/sq.m
+R,4,4,0,Kitchen,Construction,21500,Rs/sq.m
+R,4,5,0,Bedroom,Construction,21500,Rs/sq.m
+R,9,9,0,Wall,Compound wall,2000,Rs/m
+R,9,9,0,Safety,Wire fense,500,Rs/m
+C,3,0,0,Pool,Pool,25000,Rs/sq.m
+T,3,4,5,Garden,Outdoor Lawn,200,Rs/sq.m
